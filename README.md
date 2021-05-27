@@ -7,5 +7,5 @@ AUTOMATIZANDO TAREFAS EM AMBIENTES DE <br/>REDES, UTILIZANDO PYTHON
 </p> </br>
 
 <p align="center">
-  <img alt="Moveit" src="..github/Capa.png">
+  <img alt="Moveit" src=".github/Capa.png">
 </p> </br>
